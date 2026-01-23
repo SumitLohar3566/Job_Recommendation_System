@@ -72,6 +72,8 @@ Click Apply Now to visit the job source
 <img width="1812" height="597" alt="Screenshot 2026-01-15 065548" src="https://github.com/user-attachments/assets/2c518b87-5ee6-4301-b718-ed15194d0f6e" />
 <img width="1742" height="627" alt="Screenshot 2026-01-15 065601" src="https://github.com/user-attachments/assets/56e1e805-ec2e-4c58-a7a2-8637dec98747" />
 <img width="1561" height="765" alt="Screenshot 2026-01-15 065616" src="https://github.com/user-attachments/assets/59a4d2d3-5a4a-4e98-8d92-24f426161112" />
+<img width="1698" height="644" alt="Screenshot 2026-01-23 143741" src="https://github.com/user-attachments/assets/a9e77161-9961-4484-bc54-a86a654ccd44" />
+<img width="1914" height="855" alt="Screenshot 2026-01-23 143754" src="https://github.com/user-attachments/assets/a2da6af3-fbe3-4c71-86f9-b5dfc3ce9d56" />
 
 🔐 API Configuration
 
