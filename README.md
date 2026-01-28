@@ -46,8 +46,7 @@ CareerConnect-Pro/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/CareerConnect-Pro.git
-cd CareerConnect-Pro
+https://github.com/SumitLohar3566/Job_Recommendation_System
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
